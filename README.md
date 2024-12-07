@@ -1,4 +1,5 @@
-# Nike website
+# Nike website ![Logo](/src/assets/images/header-logo.svg)
+
 
 This is a personal project for my portfolio, featuring the website from one of the most famous shoe brand in the world, Nike.
 
