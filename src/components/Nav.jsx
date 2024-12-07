@@ -59,7 +59,7 @@ const Nav = () => {
         {isMenuOpen && (
           <ul
             id="dropdown-menu"
-            className="max-lg:flex flex-col gap-4 bg-white shadow-lg p-4 absolute top-[70px] right-[30px] "
+            className="max-lg:flex flex-col gap-4 bg-white shadow-lg p-4 absolute top-[70px] right-[30px] z-auto "
           >
             {navLinks.map((item) => (
               <li key={item.label}>
